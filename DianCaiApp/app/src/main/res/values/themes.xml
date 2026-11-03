@@ -1,0 +1,4 @@
+<resources>
+    <!-- 界面由 Jetpack Compose 绘制，这里只需要一个无 ActionBar 的基础主题 -->
+    <style name="Theme.DianCaiApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

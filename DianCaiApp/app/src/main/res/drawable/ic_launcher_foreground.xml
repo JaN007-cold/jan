@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 碗身 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,56 L76,56 A22,22 0 0 1 54,78 A22,22 0 0 1 32,56 Z" />
+
+    <!-- 碗口 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,53 L78,53 A2,2 0 0 1 78,58 L30,58 A2,2 0 0 1 30,53 Z" />
+
+    <!-- 筷子 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,24 L75,27 L53,52 L49,50 Z" />
+</vector>
